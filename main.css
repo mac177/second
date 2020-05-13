@@ -1,0 +1,116 @@
+body {
+	background-color:#ECEEF1;
+	padding:0;
+	left:0;
+	right:0;
+	top:0;
+	bottom:0;
+	margin:0;
+}
+form{
+	     border: 1px solid #C7C7C7;
+		 border-radius: 4px;
+		 width: 380px;
+		 margin: auto;
+		 margin-bottom:15px;
+		font-family: corbel,sans-serif;
+		background-color:#FFFFFF;
+		
+		 
+}
+
+h1 {
+	width: 100%;
+	text-align: center;
+	font-family:"Cambria Bold";
+}
+fieldset {
+	border: none;
+	
+	
+}
+
+ul{
+    list-style:none;
+	padding:0;
+}
+
+
+li {
+     
+	    padding: 20px 47px 0px;
+}
+
+label {
+	display:block;
+	padding: 8px;
+	
+}
+input {
+	height: 34px;
+    width: 280px;
+	border: 1px  solid #AEB0B3;
+	border-radius: 3px;
+}
+button {
+    border-radius: 4px;
+    width: 280px;
+    height: 40px;
+    background-color: #0077C5;
+    font-size:15px  ;
+	color: #FBFDFE;
+	cursor:pointer;
+	}
+div   {
+	width: 100%;
+	text-align: center;
+	
+	
+} 	
+
+
+a {
+	text-decoration: none;
+	color:#24CDF5;
+}
+span {
+	bottom:0;
+	font-size: 11px ;
+	color: #505050;
+	padding-bottom: 3px;
+}
+.div {
+	
+	
+}
+.one{
+	font-size:24px;
+	padding-top: 24px;
+    padding-bottom: 20px;
+	font-family: arial;}
+.two{font-size:14px;}
+.three{font-size:12px;}
+.four{font-size:14px;}
+.five{font-size:10px;
+         color: #8D8DBA;}
+.six { 
+     border: 1px solid #0077C5;
+	 border-radius: 3px;}
+.seven{
+	font-size:12px;
+	 padding-top: 20px;
+    padding-bottom: 10px;
+	color:#8D8DBA;
+	}
+.eight{
+	font-size:11px;
+	background-color: #ECEEF1;
+	padding-top: 12px;
+    padding-bottom: 12px;
+	color:#8D8DBA;
+}
+
+.kaj {
+	
+	padding-top:16px;
+}
